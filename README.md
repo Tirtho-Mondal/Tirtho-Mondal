@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tirtho-mondal&label=Profile%20views&color=0e75b6&style=flat" alt="tirtho-mondal" /> </p>
 
-- 🌱 I’m currently learning **<br/>1. Theory of Computation<br/>2. Database Systems<br/>3. Software Engineering and Information Systems<br/>4. Peripherals and Interfacing<br/>5. Data Communication, Web Programming**
+- 🌱 I’m currently learning **<br/>1. Theory of Computation<br/>2. Database Systems<br/>3. Software Engineering and Information Systems<br/>4. Peripherals and Interfacing<br/>5. Data Communication<br/>6. Web Programming**
 
 - 👨‍💻 All of my projects are available at [<br/>1. https://github.com/Tirtho-Mondal/MobiCash<br/>2. https://github.com/Tirtho-Mondal/CSE-Family](https://github.com/Tirtho-Mondal/MobiCash,https://github.com/Tirtho-Mondal/CSE-Family)
 
