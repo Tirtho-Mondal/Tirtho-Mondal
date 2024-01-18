@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **<br/>1. Theory of Computation<br/>2. Database Systems<br/>3. Software Engineering and Information Systems<br/>4. Peripherals and Interfacing<br/>5. Data Communication<br/>6. Web Programming**
 
-- 👨‍💻 All of my projects are available at [<br/>1. https://github.com/Tirtho-Mondal/MobiCash<br/>2. https://github.com/Tirtho-Mondal/CSE-Family](https://github.com/Tirtho-Mondal/MobiCash,https://github.com/Tirtho-Mondal/CSE-Family)
+- 👨‍💻 All of my projects are available at [<br/> https://github.com/Tirtho-Mondal/MobiCash<br/> https://github.com/Tirtho-Mondal/CSE-Family](https://github.com/Tirtho-Mondal/MobiCash,https://github.com/Tirtho-Mondal/CSE-Family)
 
 - 📫 How to reach me **mondal2007117@stud.kuet.ac.bd**
 
